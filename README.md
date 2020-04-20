@@ -1,2 +1,3 @@
 # menu-recommendation
-Menu item recommendation for vendors
+
+ * Recommendation of food items that a vendor can incorporate to increase market coverage
